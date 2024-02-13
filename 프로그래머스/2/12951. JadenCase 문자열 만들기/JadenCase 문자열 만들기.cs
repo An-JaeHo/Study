@@ -15,10 +15,7 @@ public class Solution {
                 {
                     answer += ss[i][j];
                 }
-                
             }
-            
-            
             
             if(i+1 != ss.Length)
             {
